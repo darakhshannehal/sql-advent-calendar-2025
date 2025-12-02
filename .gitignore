@@ -1,0 +1,18 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# Environment-specific
+.env
+
+# Ignore compiled or generated files
+*.out
