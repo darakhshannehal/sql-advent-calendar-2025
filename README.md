@@ -4,7 +4,7 @@ It’s a 24‑day countdown to Christmas, with one SQL question unlocked each da
 
 ### Daily Learning Snapshot
 
-| Day | Topic                          | Difficulty Level |
-|-----|--------------------------------|------------------|
-| 1   | Reindeer Run – Top 7 Reindeers | Easy             |
-| 2   |     | Medium             |
+| Day | Topic                          | Difficulty Level | Key Concept |
+|-----|--------------------------------|------------------|-------------| 
+| 1   | Reindeer Run – Find the Top 7 | Easy             | ORDER BY, LIMIT |
+| 2   | Toys Delivered - Find Which Toys Made It     | Medium             | INNER JOIN |
