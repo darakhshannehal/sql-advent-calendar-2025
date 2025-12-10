@@ -30,3 +30,4 @@ sql-advent-calendar-2025/
 | 7 | Snowflake Types Count | Easy | COUNT, DISTINCT, WHERE |
 | 8 | Storage Room Inventory | Medium | UNION ALL |
 | 9 | Tinsel and Light Combinations | Hard | CROSS JOIN, Concatenation |
+| 10  | Cookie Factory Oven Efficiency      | Easy             | AVG, ROUND, GROUP BY         |
