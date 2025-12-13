@@ -20,7 +20,7 @@ sql-advent-calendar-2025/
 ### Daily Progress Log
 
 | Day | Topic | Difficulty Level | Key Concept |
-|-----|----------------------------|--------------|------------------------|
+|--------------|------------------------|--------------|--------------------|
 | 1 | Reindeer Run – Find the Top 7 | Easy | ORDER BY, LIMIT |
 | 2 | Toys Delivered – Find Which Toys Made It | Medium | INNER JOIN |
 | 3 | The Grinch's Best Pranks Per Target | Hard | WINDOW FUNCTIONS, ROW_NUMBER() |
@@ -33,3 +33,4 @@ sql-advent-calendar-2025/
 | 10 | Cookie Factory Oven Efficiency | Easy | AVG, ROUND, GROUP BY |
 | 11 | Winter Market Sweater Search | Medium | LIKE, LOWER(), UPPER() |
 | 12 | North Pole Network Most Active Users | Hard | GROUP BY, DATE(), PARTITION BY, OVER, RANK() |
+| 13 | Naughty or Nice Score Extremes | Easy | MIN(), MAX(), UNION ALL |
