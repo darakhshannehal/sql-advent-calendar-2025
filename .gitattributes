@@ -1,2 +1,4 @@
 # Ensure consistent line endings
 * text=auto eol=lf
+
+*.sql linguist-detectable=true
