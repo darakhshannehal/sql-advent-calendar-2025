@@ -13,8 +13,7 @@ Analysis Objective:
 - Identify the last score recorded (latest quiz_date).
 */
 
-SELECT subject,
+SELECT DISTINCT subject,
        FIRST_VALUE(score) OVER (PARTITION BY subject ORDER BY quiz_date ASC) AS first_recorded,
        FIRST_VALUE(score) OVER (PARTITION BY subject ORDER BY quiz_date DESC) AS last_recorded
-FROM daily_quiz_scores
-GROUP BY subject;
+FROM daily_quiz_scores;
