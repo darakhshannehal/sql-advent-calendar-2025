@@ -20,7 +20,7 @@ sql-advent-calendar-2025/
 ### Daily Progress Log
 
 | Day | Topic | Difficulty Level | Key Concept |
-|-------|-----------------------------|--------------|---------------------------------|
+|-------|-----------------------|----------|------------------------------|
 | 1 | Reindeer Run – Find the Top 7 | Easy | ORDER BY, LIMIT |
 | 2 | Toys Delivered – Find Which Toys Made It | Medium | INNER JOIN |
 | 3 | The Grinch's Best Pranks Per Target | Hard | Window function: ROW_NUMBER(), PARTITION BY |
@@ -38,4 +38,5 @@ sql-advent-calendar-2025/
 | 15 | The Grinch's Mischief Tracker | Hard | Window function: LAG(), OVER |
 | 16 | Cozy Snow Day Tasks | Easy | WHERE, OR |
 | 17 | Evening Task Categories | Easy | CASE, Conditional Logic |
+| 18 | 12 Days of Data – Progress Tracking | Hard | Window function: FIRST_VALUE(); Window definition with OVER, PARTITION BY, ORDER BY |
 | ... |  |  |  |
