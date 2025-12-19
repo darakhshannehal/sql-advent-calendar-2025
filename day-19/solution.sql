@@ -15,5 +15,5 @@ Analysis Objective:
 
 SELECT SUM(paper_used_meters) AS total_amount_wrapping_paper
 FROM holiday_orders
-WHERE gift_wrap = 'true'
+WHERE gift_wrap = true
   AND delivery_status = 'Delivered';
