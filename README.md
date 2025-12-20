@@ -40,4 +40,5 @@ sql-advent-calendar-2025/
 | 17 | Evening Task Categories | Easy | CASE, Conditional Logic |
 | 18 | 12 Days of Data – Progress Tracking | Hard | Window function: FIRST_VALUE(); Window definition with OVER, PARTITION BY, ORDER BY |
 | 19 | Gift Wrap Paper Usage | Easy | Aggregate function: SUM(); Conditional filtering with WHERE |
+| 20 | Hot Cocoa Break Logs | Medium | INNER JOIN across multiple tables |
 | ... |  |  |  |
