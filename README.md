@@ -41,4 +41,5 @@ sql-advent-calendar-2025/
 | 18 | 12 Days of Data – Progress Tracking | Hard | Window function: FIRST_VALUE(); Window definition with OVER, PARTITION BY, ORDER BY |
 | 19 | Gift Wrap Paper Usage | Easy | Aggregate function: SUM(); Conditional filtering with WHERE |
 | 20 | Hot Cocoa Break Logs | Medium | INNER JOIN across multiple tables |
+| 21 | Fireside Story Running Total | Medium | Window function: SUM() OVER; Cumulative running total ordered by date |
 | ... |  |  |  |
