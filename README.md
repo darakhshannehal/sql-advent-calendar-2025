@@ -42,4 +42,5 @@ sql-advent-calendar-2025/
 | 19 | Gift Wrap Paper Usage | Easy | Aggregate function: SUM(); Conditional filtering with WHERE |
 | 20 | Hot Cocoa Break Logs | Medium | INNER JOIN across multiple tables |
 | 21 | Fireside Story Running Total | Medium | Window function: SUM() OVER; Cumulative running total ordered by date |
+| 22 | Penguin Sleigh Ride Filter | Easy | Conditional filtering with inequality (<>); Excluding specific values using NOT |
 | ... |  |  |  |
