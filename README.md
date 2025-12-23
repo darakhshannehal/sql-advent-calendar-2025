@@ -20,7 +20,7 @@ sql-advent-calendar-2025/
 ### Daily Progress Log
 
 | Day | Topic | Difficulty Level | Key Concept |
-|-------|-------------------------|------------|----------------------------|
+|-------|-------------------------|--------------|-------------------------------|
 | 1 | Reindeer Run – Find the Top 7 | Easy | ORDER BY, LIMIT |
 | 2 | Toys Delivered – Find Which Toys Made It | Medium | INNER JOIN |
 | 3 | The Grinch's Best Pranks Per Target | Hard | Window function: ROW_NUMBER(), PARTITION BY |
@@ -42,5 +42,6 @@ sql-advent-calendar-2025/
 | 19 | Gift Wrap Paper Usage | Easy | Aggregate function: SUM(); Conditional filtering with WHERE |
 | 20 | Hot Cocoa Break Logs | Medium | INNER JOIN across multiple tables |
 | 21 | Fireside Story Running Total | Medium | Window function: SUM() OVER; Cumulative running total ordered by date |
-| 22 | Penguin Sleigh Ride Filter | Easy | Conditional filtering with inequality (<>); Excluding specific values using NOT |
+| 22 | Penguin Sleigh Ride Filter | Easy | Conditional filtering with inequality (\<\>); Excluding specific values using NOT |
+| 23 | Gingerbread House Top Builders | Medium | Aggregate function with COUNT(DISTINCT); Filtering groups with HAVING |
 | ... |  |  |  |
