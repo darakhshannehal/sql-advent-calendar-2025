@@ -44,4 +44,5 @@ sql-advent-calendar-2025/
 | 21 | Fireside Story Running Total | Medium | Window function: SUM() OVER; Cumulative running total ordered by date |
 | 22 | Penguin Sleigh Ride Filter | Easy | Conditional filtering with inequality (\<\>); Excluding specific values using NOT |
 | 23 | Gingerbread House Top Builders | Medium | Aggregate function with COUNT(DISTINCT); Filtering groups with HAVING |
+| 24 | New Year Goals – User Type Analysis | Hard | Nested aggregation: COUNT per user, then AVG per user_type |
 | ... |  |  |  |
