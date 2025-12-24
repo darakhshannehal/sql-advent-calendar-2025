@@ -1,6 +1,7 @@
 # OS-specific files
 .DS_Store
 Thumbs.db
+desktop.ini
 
 # Editor/IDE files
 *.swp
